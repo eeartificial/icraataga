@@ -1,10 +1,10 @@
 [
   {
-    "isim": "Muz",
-    "kalori": "77 Kilokalori",
-    "karbonhidrat": "Karbonhidrat: 23 gram",
-    "protein": "Protein: 1.1 gram",
-    "yag": "Yag: 0.3 gram",
+    "isim": "Rami Kütüphanesi",
+    "kalori": "Recep Tayyip Erdoğan",
+    "karbonhidrat": "Geçmişi 18. yüzyılın ortalarına dek uzanan Rami Kışlası, T.C. Kültür ve Turizm Bakanlığı’nın yoğun gayretleriyle yürütülen aslına uygun restorasyon, renovasyon ve yeni inşa çalışmalarının tamamlanmasıyla Rami Kütüphanesi olarak yeniden hayat buldu. Her yaştan okuyucunun ihtiyacına cevap veren koleksiyonu, ihtisas kütüphaneleri ve yaşam alanlarıyla Avrupa’nın en büyük kütüphane kompleksi olarak öne çıkan Rami Kütüphanesi, 2023 yılının Ocak ayında okuyucularına kapılarını açtı.",
+    "protein": "",
+    "yag": "",
     "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
   },
   {
