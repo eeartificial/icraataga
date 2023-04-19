@@ -313,7 +313,7 @@
   },
   {
     "isim": "Paşa Camii",
-    "kalori": "Afyonkarahisar bel. bşk. - Mehmet Zeybek",
+    "kalori": "Afyonkarahisar Bel. Bşk. - Mehmet Zeybek",
     "karbonhidrat": "Selçuklu mimarisine uygun şekilde tamamlanan cami, sedir ağaçlarından oluşan 62 ahşap direği, revakları, kesme taş kaplaması ve kurşun çatısı ile dikkati çekiyor. İlimizde 1933 yılında yıkılan 478 yıllık geçmişe sahip Umurbey Paşa Cami’yi hayırseverlerimizin de desteği ile yeniden ibadete açtık. Paşa Camii ve Külliyesini aynı anda 1500 kişinin ibadet yapabileceği bir ibadethaneye dönüştürdük.",
     "protein": "",
     "yag": "",
@@ -321,7 +321,7 @@
   },
   {
     "isim": "Bisiklet Yolu",
-    "kalori": "Afyonkarahisar bel. bşk. - Mehmet Zeybek",
+    "kalori": "Afyonkarahisar Bel. Bşk. - Mehmet Zeybek",
     "karbonhidrat": "Çevre ve Şehircilik Bakanlığı tarafından da desteklenen bisiklet yolu projesi 2 Metre genişliğinde ilk etapta 24 km uzunluğunda tamamlanmıştır. Sürdürülebilir, doğa dostu ulaşım araçlarını destekleyen ve imkan tanıyan bir şehir olma yolunda çalışmalarımız hızla sürüyor.",
     "protein": "",
     "yag": "",
@@ -329,7 +329,7 @@
   },
   {
     "isim": "Sınıf Atık Getirme Merkezi",
-    "kalori": "Afyonkarahisar bel. bşk. - Mehmet Zeybek",
+    "kalori": "Afyonkarahisar Bel. Bşk. - Mehmet Zeybek",
     "karbonhidrat": "Sıfır Atık Projesi kapsamında şehrimizin bazı merkezi noktalarına Mobil Atık Getirme Merkezleri yerleştirdik. 1. Sınıf Atık Getirme Merkezi’ne bağlı çalışacak olan Mobil Atık Getirme Merkezlerinde yedi tip atık toplanmaktadır.",
     "protein": "",
     "yag": "",
@@ -337,7 +337,7 @@
   },
   {
     "isim": "Cep Parklar",
-    "kalori": "Afyonkarahisar bel. bşk. - Mehmet Zeybek",
+    "kalori": "Afyonkarahisar Bel. Bşk. - Mehmet Zeybek",
     "karbonhidrat": "Şehrin imar planlarında Yeşil alan olarak bırakılan ufak parseller üzerinde ; Ahşap tasarımlı park mobilyaları ve alana uygun bitki dikimi ayrıca Sanat yapıları içeren konsepti ile yol üzerinde vatandaşların rahat nefes alıp soluklanıp dinlenebileceği özgün temaların işlendiği ışık objelerin olduğu şık bahçe alanları Şehrin birçok yerine yapılacaktır.",
     "protein": "",
     "yag": "",
@@ -345,7 +345,7 @@
   },
   {
     "isim": "Halk Ekmek Fırını",
-    "kalori": "Ağrı bel. bşk. - Savcı Sayan",
+    "kalori": "Ağrı Bel. Bşk. - Savcı Sayan",
     "karbonhidrat": "Halk Ekmek Fırını",
     "protein": "",
     "yag": "",
@@ -353,7 +353,7 @@
   },
   {
     "isim": "Kapalı Pazar Alanı ve Sosyal Tesis",
-    "kalori": "Aksaray bel. bşk. - Evren Dinçer",
+    "kalori": "Aksaray Bel. Bşk. - Evren Dinçer",
     "karbonhidrat": "Kapalı Pazar Alanı ve Sosyal Tesis",
     "protein": "",
     "yag": "",
@@ -361,7 +361,7 @@
   },
   {
     "isim": "Hamidiye-Alaca Sosyal Tesisleri",
-    "kalori": "Aksaray bel. bşk. - Evren Dinçer",
+    "kalori": "Aksaray Bel. Bşk. - Evren Dinçer",
     "karbonhidrat": "Hamidiye-Alaca Sosyal Tesisleri",
     "protein": "",
     "yag": "",
@@ -369,15 +369,23 @@
   },
   {
     "isim": "Aratol Taziye Evi",
-    "kalori": "Aksaray bel. bşk. - Evren Dinçer",
+    "kalori": "Aksaray Bel. Bşk. - Evren Dinçer",
     "karbonhidrat": "Aratol Taziye Evi",
     "protein": "",
     "yag": "",
     "gorsel": "https://raw.githubusercontent.com/eeartificial/icraataga/main/aratol-taziye.jpeg"
   },
   {
+    "isim": "Yöresel Ürünler ve Turşu Fabrikası",
+    "kalori": "Bayburt Bel. Bşk. - Hükmü Pekmezci",
+    "karbonhidrat": "Yöresel Ürünler ve Turşu Fabrikası",
+    "protein": "",
+    "yag": "",
+    "gorsel": "https://raw.githubusercontent.com/eeartificial/icraataga/main/tur%C5%9Fu.jpg"
+  },
+  {
     "isim": "Ataköy Şehitler Parkı",
-    "kalori": "Afyonkarahisar bel. bşk. - Mehmet Zeybek",
+    "kalori": "Afyonkarahisar Bel. Bşk. - Mehmet Zeybek",
     "karbonhidrat": "Şehitlerimizin anısına Ataköy mahallemizde 52 bin 400 m2 alan üzerinde kurulu 36 000 m2 yeşil alana sahip parkta, (288 m2) basketbol sahası, (2400 m2)futbol sahası, (1000 m2) 3 adet çocuk oyun grupları, (250 m2) açık hava spor alanları, (110 m2) yürüyüş yolları, oturma alanları, sosyal aktivite alanları ve dinlenme alanlarından oluşan parkı hizmete sunduk.",
     "protein": "",
     "yag": "",
