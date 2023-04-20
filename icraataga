@@ -561,12 +561,20 @@
     "gorsel": "https://raw.githubusercontent.com/eeartificial/icraataga/main/15-temmuz-millet-bahcesi-led-boyutu.jpg"
   },
   {
-    "isim": "Hoşdere Millet Bahçesi",
+    "isim": "Başakşehir Hoşdere Millet Bahçesi",
     "kalori": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
-    "karbonhidrat": "Hoşdere Millet Bahçesi",
+    "karbonhidrat": "Başakşehir Hoşdere Millet Bahçesi",
     "protein": "",
     "yag": "",
     "gorsel": "https://raw.githubusercontent.com/eeartificial/icraataga/main/Hosdere-Millet-Bahcesi-projesi.jpg"
+  },
+  {
+    "isim": "Kahramanmaraş 15 Temmuz Millet Bahçesi",
+    "kalori": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
+    "karbonhidrat": "Kahramanmaraş 15 Temmuz Millet Bahçesi",
+    "protein": "",
+    "yag": "",
+    "gorsel": "https://raw.githubusercontent.com/eeartificial/icraataga/main/15%20temmuz%20millet%20mara%C5%9F.jpg"
   },
   {
     "isim": "Aratol Taziye Evi",
