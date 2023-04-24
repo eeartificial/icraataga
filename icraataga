@@ -360,6 +360,38 @@ Ayrıca önümüzdeki 1 ay boyunca konutlarımızda ısınma dâhil tüm doğal 
     "gorsel": "https://raw.githubusercontent.com/eeartificial/icraataga/main/ankara-sehir-hastanesi-03B%C4%B0LKENT.png"
   },
   {
+    "isim": "Gazi Parkı",
+    "kalori": "Ankara Bel. Bşk. - Mansur Yavaş",
+    "karbonhidrat": "Gazi Parkı",
+    "protein": "",
+    "yag": "",
+    "gorsel": "https://raw.githubusercontent.com/eeartificial/icraataga/main/ankara1.jpeg"
+  },
+  {
+    "isim": "Kuzey Yıldızı (Techbridge) Teknoloji Merkezi",
+    "kalori": "Ankara Bel. Bşk. - Mansur Yavaş",
+    "karbonhidrat": "Kuzey Yıldızı (Techbridge) Teknoloji Merkezi",
+    "protein": "",
+    "yag": "",
+    "gorsel": "https://raw.githubusercontent.com/eeartificial/icraataga/main/ankara2.jpg"
+  },
+  {
+    "isim": "Dikmen Vadisi Teknoloji Merkezi",
+    "kalori": "Ankara Bel. Bşk. - Mansur Yavaş",
+    "karbonhidrat": "Dikmen Vadisi Teknoloji Merkezi",
+    "protein": "",
+    "yag": "",
+    "gorsel": "https://raw.githubusercontent.com/eeartificial/icraataga/main/ankara3.png"
+  },
+  {
+    "isim": "Çubuk 1 Barajı",
+    "kalori": "Ankara Bel. Bşk. - Mansur Yavaş",
+    "karbonhidrat": "Çubuk 1 Barajı",
+    "protein": "",
+    "yag": "",
+    "gorsel": "https://raw.githubusercontent.com/eeartificial/icraataga/main/ankara4.jpeg"
+  },
+  {
     "isim": "Adana Şehir Hastanesi",
     "kalori": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "karbonhidrat": "Adana Şehir Hastanesi",
