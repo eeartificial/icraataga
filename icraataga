@@ -23,7 +23,7 @@ Ayrıca önümüzdeki 1 ay boyunca konutlarımızda ısınma dâhil tüm doğal 
     "isim": "Rami Kütüphanesi",
     "kalori": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "karbonhidrat": "Geçmişi 18. yüzyılın ortalarına dek uzanan Rami Kışlası, T.C. Kültür ve Turizm Bakanlığı’nın yoğun gayretleriyle yürütülen aslına uygun restorasyon, renovasyon ve yeni inşa çalışmalarının tamamlanmasıyla Rami Kütüphanesi olarak yeniden hayat buldu. Her yaştan okuyucunun ihtiyacına cevap veren koleksiyonu, ihtisas kütüphaneleri ve yaşam alanlarıyla Avrupa’nın en büyük kütüphane kompleksi olarak öne çıkan Rami Kütüphanesi, 2023 yılının Ocak ayında okuyucularına kapılarını açtı.",
-    "protein": "",
+    "protein": "https://ramikutuphanesi.gov.tr",
     "yag": "",
     "gorsel": "https://raw.githubusercontent.com/eeartificial/icraataga/main/rami%20k%C3%BCt%C3%BCphanesi.jpg"
   },
@@ -31,7 +31,7 @@ Ayrıca önümüzdeki 1 ay boyunca konutlarımızda ısınma dâhil tüm doğal 
     "isim": "ALT+TAB Kuluçka Merkezi",
     "kalori": "Güngören Belediye Başkanı - Bünyamin Demir",
     "karbonhidrat": "Al+Tab Yazılım Kuluçka Merkezi, yetenekli gençlerimizi yazılım sektörü profesyonelleri ile bir araya getirerek, onların yenilikçi örnek projelerde yer almalarına olanak sağlıyor. Bu sayede online başvuru ve algoritmik değerlendirme ile merkeze kabul edilen gençlerimiz, Agile Proje Yönetim metodolojisi ile gerçek projelerde yer alarak, kendilerini sektöre hazırlayabilecektir. Alt+Tab ülkemiz için stratejik olan yazılım sektörüne güçlü bireyler yetiştirmek amacıyla kurulmuştur.",
-    "protein": "",
+    "protein": "https://alttab.gungoren.bel.tr",
     "yag": "",
     "gorsel": "https://raw.githubusercontent.com/eeartificial/icraataga/main/alttab.jpg"
   },
@@ -39,7 +39,7 @@ Ayrıca önümüzdeki 1 ay boyunca konutlarımızda ısınma dâhil tüm doğal 
     "isim": "Atölye Üsküdar",
     "kalori": "Üsküdar Belediye Başkanı - Hilmi Türkmen",
     "karbonhidrat": "Atölye Üsküdar girişimcilere, girişimci olmak isteyenlere eğitim, ekipman, sarf malzeme, mentorluk, danışmanlık hizmetlerini ücretsiz olarak sunan bir girişimcilik ve inovasyon merkezidir. T.C. Sanayi ve Teknoloji Bakanlığı ve İstanbul Kalkınma Ajansı destekleriyle Üsküdar Belediyesi tarafından kurulmuştur.",
-    "protein": "",
+    "protein": "https://atolyeuskudar.com",
     "yag": "",
     "gorsel": "https://raw.githubusercontent.com/eeartificial/icraataga/main/thumbs_b_c_97563258923295b031f59a6e84c1f730.jpg"
   },
@@ -47,7 +47,7 @@ Ayrıca önümüzdeki 1 ay boyunca konutlarımızda ısınma dâhil tüm doğal 
     "isim": "Atatürk Kültür Merkezi",
     "kalori": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "karbonhidrat": "Sadece İstanbul’un değil, Türkiye’nin de sanat belleğinde iz bırakan İstanbul AKM, önceki mimarisine selam gönderen yeni yüzüyle 29 Ekim 2021 tarihinde, büyük bir heyecanla, kapılarını sanatseverlere açtı. Kültür ve Turizm Bakanlığına bağlı İstanbul’daki sanat birimlerinin, yerleşik kurum olarak yer alacağı İstanbul AKM, gelişmiş bir teknolojik donanımla tasarlanmış 2040 kişilik Opera Salonu, 781 kişilik Tiyatro Salonu, 410 metrekarelik AKM Galeri ve AKM Çok Amaçlı Salon'u ile yıl boyunca sanatseverleri ağırlayacak.",
-    "protein": "",
+    "protein": "https://akmistanbul.gov.tr",
     "yag": "",
     "gorsel": "https://raw.githubusercontent.com/eeartificial/icraataga/main/1-akm-1920x1080-renkli-2.jpg"
   },
@@ -71,7 +71,7 @@ Ayrıca önümüzdeki 1 ay boyunca konutlarımızda ısınma dâhil tüm doğal 
     "isim": "TOGG",
     "kalori": "Milli Teknoloji Hamlesi",
     "karbonhidrat": "Türkiye'de yerli otomobil üretebilmek için birlikte çalışma kararı alan şirket ve kuruluşlar, Kasım 2017'de Cumhurbaşkanı Recep Tayyip Erdoğan tarafından açıklandı. Bu amaçla Anadolu Grubu (%19), BMC (%19), Kök Grubu (%19), Turkcell (%19), Zorlu Holding (%19) ve TOBB (%5) tarafından 25 Haziran 2018'de Türkiye'nin Otomobili Girişim Grubu Sanayi ve Ticaret A.Ş. kuruldu. 4 Mart 2023'te aracın başlangıç fiyatı 953 bin Türk lirası olarak açıklandı.",
-    "protein": "",
+    "protein": "https://ces2023.togg.com.tr",
     "yag": "",
     "gorsel": "https://raw.githubusercontent.com/eeartificial/icraataga/main/togg-aa-1963758.jpg"
   },
@@ -265,7 +265,7 @@ Not: En az bir oyuncunun Güngören'de ikamet etmesi ve ikameti olan oyuncunun b
     "isim": "Bilişim Vadisi",
     "kalori": "Milli Teknoloji Hamlesi",
     "karbonhidrat": "Bilişim Vadisi, teknoloji tabanlı fikirlerin ürüne dönüştüğü ve ticarileştiği bir Mega Teknoloji Koridorudur. Amacımız, 2023 Milli Teknoloji Hamlesi Vizyon Hedefleri çerçevesinde Kamu - Üniversite – Sanayi – Sivil Toplum işbirliğini sağlayarak Türkiye’nin gücüne güç katacak katma değeri yüksek yeni teknolojilerin üretilmesini ve ticarileşmesini sağlamaktır.",
-    "protein": "",
+    "protein": "https://bilisimvadisi.com.tr",
     "yag": "",
     "gorsel": "https://raw.githubusercontent.com/eeartificial/icraataga/main/biliimvadis.jpg"
   },
@@ -273,7 +273,7 @@ Not: En az bir oyuncunun Güngören'de ikamet etmesi ve ikameti olan oyuncunun b
     "isim": "Teknopark İstanbul",
     "kalori": "Milli Teknoloji Hamlesi",
     "karbonhidrat": "Yerli ve yabancı girişimcilerin Türkiye’nin teknoloji geliştirme kapasitesine katkıda bulunabilmesi amacıyla kurulmuş bir teknoloji geliştirme bölgesi olan Teknopark İstanbul, Türk savunma sanayinin ileri teknoloji merkezi konumunda yer almaktadır. Teknopark İstanbul; İstanbul ve çevresindeki üniversitelerin araştırma kabiliyetlerini, nitelikli işgücünü ve bölge sanayisinin tecrübesini özellikle savunma sanayine entegre etmektedir.",
-    "protein": "",
+    "protein": "https://www.teknoparkistanbul.com.tr",
     "yag": "",
     "gorsel": "https://raw.githubusercontent.com/eeartificial/icraataga/main/teknoparkist.jpg"
   },
@@ -281,7 +281,7 @@ Not: En az bir oyuncunun Güngören'de ikamet etmesi ve ikameti olan oyuncunun b
     "isim": "BTM İstanbul",
     "kalori": "Milli Teknoloji Hamlesi",
     "karbonhidrat": "BTM; İstanbul Ticaret Odası tarafından yenilikçi iş fikirlerinin ticarileşerek ülkemize katma değer sağlaması amacıyla bir vakıf olarak kurulmuştur. BTM’de fikirlerin iş modeli haline gelmesi sağlanırken; eğitim ve seminerler, mentor desteği, yatırımcı eşleştirmeleri, girişimcilerin yatırımcı karşısında sunum yaptığı demo günü etkinlikleri, İTO Komite eşleştirmeleri, 7/24 ofis imkanı, birebir danışmanlık gibi hizmetler girişimcilere tamamen ücretsiz sunulmaktadır.",
-    "protein": "",
+    "protein": "https://btm.istanbul",
     "yag": "",
     "gorsel": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bilgiyi-ticarilestirme-merkezi6.jpg"
   },
