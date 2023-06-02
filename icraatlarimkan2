@@ -6,47 +6,22 @@
   },
   {
     "id": "2",
-    "title": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bal%C4%B1kesirk%C4%B1zp%C4%B1nar.jpg"
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-rekabet-_oncesi_isbirligi_destegi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/i2.png"
   },
   {
     "id": "3",
-    "title": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bal%C4%B1kesirk%C4%B1zp%C4%B1nar.jpg"
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet_geleneksel_girisimci_destek_programi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/i3.png"
   },
   {
     "id": "4",
-    "title": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bal%C4%B1kesirk%C4%B1zp%C4%B1nar.jpg"
-  },
-  {
-    "id": "5",
-    "title": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bal%C4%B1kesirk%C4%B1zp%C4%B1nar.jpg"
-  },
-  {
-    "id": "6",
-    "title": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bal%C4%B1kesirk%C4%B1zp%C4%B1nar.jpg"
-  },
-  {
-    "id": "7",
-    "title": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bal%C4%B1kesirk%C4%B1zp%C4%B1nar.jpg"
-  },
-  {
-    "id": "8",
-    "title": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bal%C4%B1kesirk%C4%B1zp%C4%B1nar.jpg"
-  },
-  {
-    "id": "9",
-    "title": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bal%C4%B1kesirk%C4%B1zp%C4%B1nar.jpg"
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet_ileri_girisimci_destek_programi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/i4.png"
   },
   {
     "id": "10",
-    "title": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bal%C4%B1kesirk%C4%B1zp%C4%B1nar.jpg"
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-1515_oncul_arge_laboratuvarlari_destekleme_programi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/i5.png"
   }
 ]
