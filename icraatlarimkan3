@@ -1,52 +1,27 @@
 [
   {
     "id": "1",
-    "title": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/dez1.png"
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-kultur_varligi_olarak_tescilli_tasinmazlara_proje_ve_uygulama_destegi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/vavi1.png"
   },
   {
     "id": "2",
-    "title": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/dez2.png"
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-yerli_eser_yazim_tesvigi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/vavi2.png"
   },
   {
     "id": "3",
-    "title": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/dez3.png"
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-turizm_tanitma_ve_pazarlama_faaliyetlerinin_desteklenmesi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/vavi3.png"
   },
   {
     "id": "4",
-    "title": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/dez4.png"
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-2634-turizmi_tesvik_kanunu_ile_saglanan_tesvikler.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/vavi4.png"
   },
   {
     "id": "5",
-    "title": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/dez5.png"
-  },
-  {
-    "id": "6",
-    "title": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/dez6.png"
-  },
-  {
-    "id": "7",
-    "title": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/dez7.png"
-  },
-  {
-    "id": "8",
-    "title": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/dez8.png"
-  },
-  {
-    "id": "9",
-    "title": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/dez9.png"
-  },
-  {
-    "id": "10",
-    "title": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/dez10.png"
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-teknik_yardim_destegi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/vavi5.png"
   }
 ]
