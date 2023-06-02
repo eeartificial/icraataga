@@ -1,52 +1,27 @@
 [
   {
     "id": "1",
-    "title": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bal%C4%B1kesirk%C4%B1zp%C4%B1nar.jpg"
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-isbasi_egitimlerini_tamamlayanlarin_istihdami_tesviki.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/yard1.png"
   },
   {
     "id": "2",
-    "title": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bal%C4%B1kesirk%C4%B1zp%C4%B1nar.jpg"
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-5_puanlik_indirim.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/yard2.png"
   },
   {
     "id": "3",
-    "title": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bal%C4%B1kesirk%C4%B1zp%C4%B1nar.jpg"
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-is_sagligi_guvenligi_hizmetlerinin_desteklenmesi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/yard3.png"
   },
   {
     "id": "4",
-    "title": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bal%C4%B1kesirk%C4%B1zp%C4%B1nar.jpg"
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-sosyal_hizmetlerden_yararlananlarin_istihdami_tesviki.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/yard4.png"
   },
   {
     "id": "5",
-    "title": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bal%C4%B1kesirk%C4%B1zp%C4%B1nar.jpg"
-  },
-  {
-    "id": "6",
-    "title": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bal%C4%B1kesirk%C4%B1zp%C4%B1nar.jpg"
-  },
-  {
-    "id": "7",
-    "title": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bal%C4%B1kesirk%C4%B1zp%C4%B1nar.jpg"
-  },
-  {
-    "id": "8",
-    "title": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bal%C4%B1kesirk%C4%B1zp%C4%B1nar.jpg"
-  },
-  {
-    "id": "9",
-    "title": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bal%C4%B1kesirk%C4%B1zp%C4%B1nar.jpg"
-  },
-  {
-    "id": "10",
-    "title": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bal%C4%B1kesirk%C4%B1zp%C4%B1nar.jpg"
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-ar_ge_faaliyetlerinin_desteklenmesi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/yard5.png"
   }
 ]
