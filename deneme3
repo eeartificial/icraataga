@@ -1,0 +1,19 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "title": "emre",
+      "description": "Bu bir örnek açıklamadır."
+    },
+    {
+      "id": 2,
+      "title": "Örnek Başlık 2",
+      "description": "Bu da başka bir örnek açıklamadır."
+    },
+    {
+      "id": 3,
+      "title": "Örnek Başlık 3",
+      "description": "Ve işte üçüncü bir örnek açıklama."
+    }
+  ]
+}
