@@ -1,27 +1,7 @@
 [
   {
     "id": "1",
-    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-kultur_varligi_olarak_tescilli_tasinmazlara_proje_ve_uygulama_destegi.pdf",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/vay1.png"
-  },
-  {
-    "id": "2",
-    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-yerli_eser_yazim_tesvigi.pdf",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/vay2.png"
-  },
-  {
-    "id": "3",
-    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-turizm_tanitma_ve_pazarlama_faaliyetlerinin_desteklenmesi.pdf",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/vay3.png"
-  },
-  {
-    "id": "4",
-    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-2634-turizmi_tesvik_kanunu_ile_saglanan_tesvikler.pdf",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/vay4.png"
-  },
-  {
-    "id": "5",
-    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-teknik_yardim_destegi.pdf",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/vay5.png"
+    "title": "https://www.gungoren.bel.tr/etkinlik/e-spor-cs-go-turnuvasi",
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/etke1.png"
   }
 ]
