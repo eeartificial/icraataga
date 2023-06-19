@@ -81,295 +81,301 @@
   },
   {
     "id": "11",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "İstanbul Finans Merkezi",
+    "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
+    "title3": "İstanbul Finans Merkezi veya İstanbul Uluslararası Finans Merkezi veya Ümraniye Finans Merkezi İstanbul’un Ümraniye ilçesinde yer alan finans merkezi projesine verilen isimdir. Çevre ve Şehircilik Bakanlığı’nın yaptığı açıklamaya göre bu projenin hedefi New York, Londra ve Dubai’de yer alan mevcut finans merkezlerinden daha büyük bir finans merkezi inşa etmek ve İstanbul’u uluslararası bir finans merkezi haline getirmektir.",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/istfinans.jpg"
   },
   {
     "id": "12",
-    "title": "",
-    "title2": "",
-    "title3": "🇷",
+    "title": "TCG Anadolu",
+    "title2": "Milli Teknoloji Hamlesi",
+    "title3": "Türk Deniz Kuvvetlerinin sancak gemisi rolündeki geminin yapımı için 2014 yılında ilk çalışmalar yapılmış, 1 Haziran 2015 tarihinde Sedef Tersanesi'ne verilen sipariş sonrasında ise inşa faaliyetleri başlamıştır. Geminin tasarımında İspanyol donanmasına ait Juan Carlos I (L61) gemisinin tasarımı örnek alınmıştır. 4 Mart 2023 tarihinde gemi Savunma Sanayii Başkanlığı tarafından Türk Deniz Kuvvetleri'ne teslim edilmiştir. Donanmanın yapacağı son kabul testlerinden sonra gemi aktif olarak kullanılmaya başlanacaktır.",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/tcganadolu.jpg"
   },
   {
     "id": "13",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Ankara-Niğde Otoyolu",
+    "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
+    "title3": "Ankara-Niğde Otoyolu'nun hizmete açılması ile özellikle ağır vasıta ağırlıklı yoğun trafiğe hizmet eden yolda trafik güvenliği, can ve mal emniyetinin sağlanması, seyahat süresinin kısaltılması ve yöredeki turizm ve sanayinin gelişmesine katkıda bulunması amaçlanmaktadır. Ankara-Niğde Otoyolu; Edirne'den başlayarak, İstanbul ve Ankara üzerinden Güneydoğu'ya kadar uzanan ve yapılması planlanan Şanlıurfa-Habur Sınır Kapısı kesimini de kapsayan TEM (Trans Avrupa Kuzey Güney Otoyolu) Otoyolu'nda kesintisiz ulaşım sağlamasında da önem arz etmektedir.",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/HaymanaKavsagi.jpg"
   },
   {
     "id": "14",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Bor Karbür Tesisi",
+    "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
+    "title3": "Türkiye'nin ilk ve stratejik tesislerinden biri olacak, savunma sanayisinin gücüne güç katacak Türkiye'nin ilk bor karbür tesisi, Balıkesir'in Bandırma ilçesinde Cumhurbaşkanı Recep Tayyip Erdoğan'ın katılımıyla açıldı. Tam kapasite çalıştığında 279 kişinin istihdam edileceği tesiste, yılda 1000 ton bor karbür üretilecek. Elmas ve kübik bordan sonra en sert üçüncü madde olan bor karbür, başta savunma sanayisi olmak üzere birçok alanda kullanılıyor.",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bor-karbur-tesisi-a-2014348.jpg"
   },
   {
     "id": "15",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Cudi-Gabar Petrol Keşfi",
+    "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
+    "title3": "Cudi-Gabar Petrol Keşfi",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/cudi.jpg"
   },
   {
     "id": "16",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Honaz Tüneli",
+    "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
+    "title3": "Ege ve Akdeniz’i birbirine bağlayan Honaz Tüneli ve Çevre Yolu ile seyahat süresi 45 dakikadan 10 dakikaya inecek. Ege’nin en büyüklerinden biri olan 2 bin 640 metrelik tünel ve 32 kilometrelik çevre yolu zamandan ve yakıttan büyük tasarruf sağlayacak.",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/honaz-tuneli-1985882.jpg"
   },
   {
     "id": "17",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Bayraktar Kızılelma",
+    "title2": "Milli Teknoloji Hamlesi",
+    "title3": "Baykar Bayraktar Kızılelma, Türkiye merkezli insansız hava aracı üreticisi Baykar Teknoloji tarafından tasarım ve geliştirme çalışmaları devam eden, turbofan motorlu, gizlilik ve Havadan havaya füze atabilme kabiliyetine sahip insansız savaş uçağıdır.",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/KIZILELMA-MIUS-prototip-1.jpg"
   },
   {
     "id": "18",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "AKM-GAR-KIZILAY Metrosu",
+    "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
+    "title3": "Proje kapsamında, Gar, Adliye ve Kızılay olmak üzere 3 istasyondan oluşan hat sayesinde başkentliler Keçiören'den Kızılay'a aktarmasız gidebilecek. Metro hattında yeni inşa edilen ve 600 bin yolcu kapasiteli Gar İstasyonu aracılığıyla yolcular, Ankara YHT Garı'na, Başkentray’a ve Ankaray'a aktarma yapabilecek. İkinci istasyon olan Adliye İstasyonu aracılığıyla da Başkentray'a aktarma sağlanabilecek. Son istasyon Kızılay'dan Batıkent, Çayyolu ve Ankaray metro hatlarına geçiş mümkün olacak.",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/akm-gar-kizilay-metro-hatti-acildi-1681459311%20(1).jpg"
   },
     {
     "id": "19",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Yusufeli Barajı",
+    "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
+    "title3": "Yusufeli Barajı ve Hidroelektrik Santrali Projesi Orman ve Su İşleri Bakanlığı DSİ Genel Müdürlüğünce yaptırılan barajdır ve temeli 26 Şubat 2013'te atılmıştır. Yusufeli Barajı; Karadeniz Bölgesi’nde, Artvin’in 70 kilometre güney batısında, Çoruh Nehri üzerinde inşa edilmiş olup, 540 MW kurulu güç ile yılda ortalama 1,8 milyar kWh enerji üretecektir. Tesis şu anda; çift eğrilikli beton kemer kategorisinde dünyanın en yüksek üçüncü, genel kategoride dünyanın en yüksek yedinci barajı konumundadır. 2022 yılının ilk günlerinde barajda su tutulmaya başlandı.",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/baraj2.webp"
   },
   {
     "id": "20",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Fatih Merkez Kütüphanesi",
+    "title2": "Fatih Belediye Başkanı - M. Ergün Turan",
+    "title3": "Fatih Merkez Kütüphanesi",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/WhatsApp%20Image%202021-05-28%20at%2017_25_50%20(1).jpeg"
   },
   {
     "id": "21",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Vatan Kütüphanesi",
+    "title2": "Fatih Belediye Başkanı - M. Ergün Turan",
+    "title3": "Vatan Kütüphanesi",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/WhatsApp%20Image%202023-03-14%20at%2008_40_21(1).jpeg"
   },
   {
     "id": "22",
-    "title": "",
-    "title2": "",
-    "title3": "🇷",
+    "title": "Cerrahpaşa Kütüphanesi",
+    "title2": "Fatih Belediye Başkanı - M. Ergün Turan",
+    "title3": "Cerrahpaşa Kütüphanesi",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/cerrah.jpeg"
   },
   {
     "id": "23",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Topkapı Kütüphanesi",
+    "title2": "Fatih Belediye Başkanı - M. Ergün Turan",
+    "title3": "Topkapı Kütüphanesi",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/Untitled-1_294x200.jpg"
   },
   {
     "id": "24",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Zigana Tüneli",
+    "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
+    "title3": "Dünyanın 3'üncü, Avrupa ve ülkemizin 1'inci en uzun çift tüplü kara yolu tüneli Zigana Tüneli hayırlı olsun.",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/zigana.jpg"
   },
   {
     "id": "25",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Kalenderhane Kütüphanesi",
+    "title2": "Fatih Belediye Başkanı - M. Ergün Turan",
+    "title3": "Kalenderhane Kütüphanesi",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/kalenderhane.jpg"
   },
   {
     "id": "26",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Karagümrük Kütüphanesi",
+    "title2": "Fatih Belediye Başkanı - M. Ergün Turan",
+    "title3": "Karagümrük Kütüphanesi",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/301-karagumruk-kutuphanesi-fatihbel_255x285.jpeg"
   },
   {
     "id": "27",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Kadırga Kütüphanesi",
+    "title2": "Fatih Belediye Başkanı - M. Ergün Turan",
+    "title3": "Kadırga Kütüphanesi",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/e2e664c1940241e4ae016bb0e6cc75a4.jpg"
   },
   {
     "id": "28",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Vani Dergahı Kütüphanesi",
+    "title2": "Fatih Belediye Başkanı - M. Ergün Turan",
+    "title3": "Vani Dergahı Kütüphanesi",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/vani(2).jpg"
   },
     {
     "id": "29",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Kariye Kütüphanesi",
+    "title2": "Fatih Belediye Başkanı - M. Ergün Turan",
+    "title3": "Kariye Kütüphanesi",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/refik%20halit.jpg"
   },
   {
     "id": "30",
-    "title": "",
-    "title2": "",
-    "title3": "",
-    "title4": "",
-    "imageUrl": ""
+    "title": "Bilişim Vadisi",
+    "title2": "Milli Teknoloji Hamlesi",
+    "title3": "Bilişim Vadisi, teknoloji tabanlı fikirlerin ürüne dönüştüğü ve ticarileştiği bir Mega Teknoloji Koridorudur. Amacımız, 2023 Milli Teknoloji Hamlesi Vizyon Hedefleri çerçevesinde Kamu - Üniversite – Sanayi – Sivil Toplum işbirliğini sağlayarak Türkiye’nin gücüne güç katacak katma değeri yüksek yeni teknolojilerin üretilmesini ve ticarileşmesini sağlamaktır.",
+    "title4": "https://bilisimvadisi.com.tr",
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/biliimvadis.jpg"
   },
   {
     "id": "31",
-    "title": "",
-    "title2": "",
-    "title3": "",
-    "title4": "",
-    "imageUrl": ""
+    "title": "Teknopark İstanbul",
+    "title2": "Milli Teknoloji Hamlesi",
+    "title3": "Yerli ve yabancı girişimcilerin Türkiye’nin teknoloji geliştirme kapasitesine katkıda bulunabilmesi amacıyla kurulmuş bir teknoloji geliştirme bölgesi olan Teknopark İstanbul, Türk savunma sanayinin ileri teknoloji merkezi konumunda yer almaktadır. Teknopark İstanbul; İstanbul ve çevresindeki üniversitelerin araştırma kabiliyetlerini, nitelikli işgücünü ve bölge sanayisinin tecrübesini özellikle savunma sanayine entegre etmektedir.",
+    "title4": "https://www.teknoparkistanbul.com.tr",
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/teknoparkist.jpg"
   },
   {
     "id": "32",
-    "title": "",
-    "title2": "",
-    "title3": "🇷",
-    "title4": "",
-    "imageUrl": ""
+    "title": "BTM İstanbul",
+    "title2": "Milli Teknoloji Hamlesi",
+    "title3": "BTM; İstanbul Ticaret Odası tarafından yenilikçi iş fikirlerinin ticarileşerek ülkemize katma değer sağlaması amacıyla bir vakıf olarak kurulmuştur. BTM’de fikirlerin iş modeli haline gelmesi sağlanırken; eğitim ve seminerler, mentor desteği, yatırımcı eşleştirmeleri, girişimcilerin yatırımcı karşısında sunum yaptığı demo günü etkinlikleri, İTO Komite eşleştirmeleri, 7/24 ofis imkanı, birebir danışmanlık gibi hizmetler girişimcilere tamamen ücretsiz sunulmaktadır.",
+    "title4": "https://btm.istanbul",
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bilgiyi-ticarilestirme-merkezi6.jpg"
   },
   {
     "id": "33",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Bilişim Akademisi",
+    "title2": "Arnavutköy Belediye Başkanı - Ahmet Haşim Baltacı",
+    "title3": "Arnavutköy Belediyesi, Milli Teknoloji Hamlesi ve Dijital Türkiye Hedefleri doğrultusunda; bilişim alanında yetenekli genç ve yetişkinlere yönelik Arnavutköy Bilişim Akademisi’ni hayata geçirdi.",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/arnavutk%C3%B6y1.jpg"
   },
   {
     "id": "34",
-    "title": "",
-    "title2": "",
+    "title": "Erdem Bayazıt Kütüphanesi",
+    "title2": "Arnavutköy Belediye Başkanı - Ahmet Haşim Baltacı",
     "title3": "",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/erdem-bayazit-kutuphanesi_3932.jpg"
   },
   {
     "id": "35",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Akkuyu Nükleer Güç Santrali",
+    "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
+    "title3": "Türkiye'nin enerji arz güvenliğine eşsiz katkılar sağlayacak stratejik bir yatırım olan Akkuyu Nükleer Güç Santralimizin üretim öncesi son hazırlık safhasını tamamladık, nükleer yakıt çubuklarının santral sahasına teslimini gerçekleştirdik.
+
+Ülkemize hayırlı ve uğurlu olsun. 🇹🇷",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/akkuyu.jpg"
   },
   {
     "id": "36",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Hadımköy Bilgi Evi ve Kültür Evi Projesi",
+    "title2": "Arnavutköy Belediye Başkanı - Ahmet Haşim Baltacı",
+    "title3": "Arnavutköy  İlçesi  Hadımköy   697  Ada 1 Parsel 1/1000 Ölçekli Hadımköy Merkez Bölgesi I.Etap Uygulama İmar Planı’nda  BHA (Belediye Hizmet Alanı)  fonksiyonunda kalmaktadır. Söz konusu  parselde  bölge ihtiyaçları dikkate  alınarak  Bilgi  Evi  projesi  hazırlatılmıştır.  Toplam 960 m²  kapalı alana  sahip  Bilgi Evi’nde  aşağıdaki fonksiyonlar  yer almaktadır.",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/1.jpg"
   },
   {
     "id": "37",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Adana 15 Temmuz Şehitler Köprüsü",
+    "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
+    "title3": "Bugün, sıradan bir ulaşım eserinin çok ötesinde özelliklere sahip olan Adana 15 Temmuz Şehitler Köprümüzün resmî açılışını gerçekleştirdik.
+
+Adana’mıza ve ülkemize hayırlı olsun. 🇹🇷",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/adanakopru.jpg"
   },
   {
     "id": "38",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Taşoluk Millet Kıraathanesi",
+    "title2": "Arnavutköy Belediye Başkanı - Ahmet Haşim Baltacı",
+    "title3": "Taşoluk Millet Kıraathanesi 1.500 kitaplı kütüphanesi ve millet kıraathanesiyle Yeşil Camii Meydanı’nda hizmet vermektedir.",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/2.jpg"
   },
     {
     "id": "39",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Sanat Akademisi",
+    "title2": "Arnavutköy Belediye Başkanı - Ahmet Haşim Baltacı",
+    "title3": "Akademimiz 2015 Aralık ayında  “ Sanat Akademisi” ismiyle yolculuğuna başlamış olup ilçe genelinde Arnavutköy Belediyesi Kültür işleri bünyesinde sanatsal, kültürel ve eğitsel faaliyetler yürüten bir birimdir.",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/3.jpg"
   },
   {
     "id": "40",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Ayazma Millet Bahçesi",
+    "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
+    "title3": "Ayazma Millet Bahçesi",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/ayazmamillet.jpg"
   },
   {
     "id": "41",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Teknoloji Geliştirme Merkezi",
+    "title2": "Tuzla Belediye Başkanı - Şadi Yazıcı",
+    "title3": "Teknoloji Geliştirme Merkezi (TEKMER); girişimcilere ve işletmelere ön inkübasyon, inkübasyon, inkübasyon sonrası süreçlerde; iş geliştirme, mali kaynaklara erişim, yönetim, danışmanlık, mentörlük, ofis ve ağlara katılım gibi hizmetlerin sağlandığı yapılardır.",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/tuzla1.jpg"
   },
   {
     "id": "42",
-    "title": "",
-    "title2": "",
-    "title3": "🇷",
+    "title": "Ankara-Sivas YHT",
+    "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
+    "title3": "Ankara-Sivas YHT",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/ankarasivasyht.jpg"
   },
   {
     "id": "43",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Konya Güneş Enerjisi Santrali",
+    "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
+    "title3": "Konya Karapınar’da 1 milyar dolarlık yatırımla kurduğumuz güneş enerjisi santralinin açılışını da bugün yaptık.
+
+Dünyanın sayılı, Avrupa’nın ve ülkemizin bu alanda en büyük enerji santrali olan tesisimiz 2 milyon kişinin yıllık elektrik ihtiyacını karşılayacak.",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/elentrik.jpg"
   },
   {
     "id": "44",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Engelsiz Yaşam Merkezi",
+    "title2": "Tuzla Belediye Başkanı - Şadi Yazıcı",
+    "title3": "Tuzla Belediyesi Gönül Elleri Çarşısı, 5 bin kadın kent gönüllüsü ile Tuzla’da kapı kapı dolaşarak dezavantajlı vatandaşları belirliyor, yıl boyunca da yanların olarak ihtiyaçlarını karşılıyor. Bu kapsamda yıl boyunca takipleri yapılan özel vatandaşların eğitim alabilecekleri, spor yapabilecekleri ve sosyal hayata karışabilecekleri Tuzla Belediyesi Engelsiz Yaşam Merkezi açıldı.",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/tuzla2.jpg"
   },
   {
     "id": "45",
-    "title": "",
-    "title2": "",
+    "title": "Güngören Spor Kompleksi",
+    "title2": "Güngören Belediye Başkanı - Bünyamin Demir",
     "title3": "",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/g%C3%BCn2.jpg"
   },
   {
     "id": "46",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Bakırköy Baruthane Millet Bahçesi",
+    "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
+    "title3": "Bakırköy Baruthane Millet Bahçesi",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/labarut.webp"
   },
   {
     "id": "47",
-    "title": "",
+    "title": "Ankara Etlik Şehir Hastanesi",
     "title2": "",
     "title3": "",
     "title4": "",
@@ -377,139 +383,139 @@
   },
   {
     "id": "48",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Ankara Etlik Şehir Hastanesi",
+    "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
+    "title3": "Ankara Etlik Şehir Hastanesi",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/ankara%20etlik.png"
   },
     {
     "id": "49",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Ankara Bilkent Şehir Hastanesi",
+    "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
+    "title3": "Ankara Bilkent Şehir Hastanesi",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/ankara-sehir-hastanesi-03B%C4%B0LKENT.png"
   },
   {
     "id": "50",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Gazi Parkı",
+    "title2": "Ankara Büyükşehir Belediye Başkanı - Mansur Yavaş",
+    "title3": "Gazi Parkı",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/ankara1.jpeg"
   },
   {
     "id": "51",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Kuzey Yıldızı (Techbridge) Teknoloji Merkezi",
+    "title2": "Ankara Büyükşehir Belediye Başkanı - Mansur Yavaş",
+    "title3": "Kuzey Yıldızı (Techbridge) Teknoloji Merkezi",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/ankara2.jpg"
   },
   {
     "id": "52",
-    "title": "",
-    "title2": "",
-    "title3": "🇷",
+    "title": "Dikmen Vadisi Teknoloji Merkezi",
+    "title2": "Ankara Büyükşehir Belediye Başkanı - Mansur Yavaş",
+    "title3": "Dikmen Vadisi Teknoloji Merkezi",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/ankara3.png"
   },
   {
     "id": "53",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Çubuk 1 Barajı",
+    "title2": "Ankara Büyükşehir Belediye Başkanı - Mansur Yavaş",
+    "title3": "Çubuk 1 Barajı",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/ankara4.jpeg"
   },
   {
     "id": "54",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Adana Şehir Hastanesi",
+    "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
+    "title3": "Adana Şehir Hastanesi",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/adana-sehir-hastanesi-01jpg.png"
   },
   {
     "id": "55",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Mersin Şehir Hastanesi",
+    "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
+    "title3": "Mersin Şehir Hastanesi",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/mersin-sehir-hastanesi-02png.png"
   },
   {
     "id": "56",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Yozgat Şehir Hastanesi",
+    "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
+    "title3": "Yozgat Şehir Hastanesi",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/yozgat-sehir-hastanesi-02jpg.png"
   },
   {
     "id": "57",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Isparta Şehir Hastanesi",
+    "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
+    "title3": "Isparta Şehir Hastanesi",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/%C4%B1sparta.jpeg"
   },
   {
     "id": "58",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Kayseri Şehir Hastanesi",
+    "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
+    "title3": "Kayseri Şehir Hastanesi",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/Keydata-Kayseri-PPP-2-scaled.jpg"
   },
     {
     "id": "59",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Elazığ Fethi Sekin Şehir Hastanesi",
+    "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
+    "title3": "Elazığ Fethi Sekin Şehir Hastanesi",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/elazig-fethi-sekin-sehir-hastanesi-12jpg.png"
   },
   {
     "id": "60",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Eskişehir Şehir Hastanesi",
+    "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
+    "title3": "Eskişehir Şehir Hastanesi",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/eskisehir-sehir-hastanesi-aa-1688234.jpg"
   },
   {
     "id": "61",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Manisa Şehir Hastanesi",
+    "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
+    "title3": "Manisa Şehir Hastanesi",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/manisa%C5%9Fehirhastanes.jpg"
   },
   {
     "id": "62",
-    "title": "",
-    "title2": "",
-    "title3": "🇷",
+    "title": "Bursa Şehir Hastanesi",
+    "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
+    "title3": "Bursa Şehir Hastanesi",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bursala%C5%9Fehir.jpg"
   },
   {
     "id": "63",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Konya Şehir Hastanesi",
+    "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
+    "title3": "Konya Şehir Hastanesi",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/konya%20%C5%9Fehir%20hastanesi.jpg"
   },
   {
     "id": "64",
-    "title": "",
-    "title2": "",
-    "title3": "",
+    "title": "Tekirdağ Şehir Hastanesi",
+    "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
+    "title3": "Tekirdağ Şehir Hastanesi",
     "title4": "",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/tekirdah%C5%9Fehir.jpg"
   },
   {
     "id": "65",
