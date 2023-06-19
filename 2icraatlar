@@ -1,22 +1,27 @@
 [
   {
     "id": "1",
-    "title": "Rami Kütüphanesi",
-    "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
-    "title3": "Geçmişi 18. yüzyılın ortalarına dek uzanan Rami Kışlası, T.C. Kültür ve Turizm Bakanlığı’nın yoğun gayretleriyle yürütülen aslına uygun restorasyon, renovasyon ve yeni inşa çalışmalarının tamamlanmasıyla Rami Kütüphanesi olarak yeniden hayat buldu. Her yaştan okuyucunun ihtiyacına cevap veren koleksiyonu, ihtisas kütüphaneleri ve yaşam alanlarıyla Avrupa’nın en büyük kütüphane kompleksi olarak öne çıkan Rami Kütüphanesi, 2023 yılının Ocak ayında okuyucularına kapılarını açtı.",
-    "title4": "https://ramikutuphanesi.gov.tr",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/rami%20k%C3%BCt%C3%BCphanesi.jpg"
+    "title": "Yenilenebilir Enerji GES Projesi",
+    "title2": "Ahmet Haşim BALTACI",
+    "title3": "Güneş Enerjisi Uygulamalarının Geliştirilmesi Projesi kapsamında, 2022 yılında Ulaşım Hizmetleri Binasında; 63.72 MWh elektrik üretilmiştir. Tesisin kapasitesi 100 KW gücüne çıkartılmıştır. 2 megawatt toplam güç için 5 farklı noktada projelendirilme işlemleri yapılmıştır.",
+    "title4": "",
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/yenilenebilir-enerji-ges-projesi_8956.jpg"
   },
   {
-    "id": "1",
-    "title": "Müjde",
-    "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
-    "title3": "1 yıl boyunca evlerimizdeki mutfak ve sıcak su tüketimi için gereken doğal gaz ücretsiz olacaktır.
-
-Ayrıca önümüzdeki 1 ay boyunca konutlarımızda ısınma dâhil tüm doğal gaz tüketiminden de ücret almayacağız.
-
-#MüjdelerOlsun, hayırlı olsun. 🇹🇷",
+    "id": "2",
+    "title": "Arnavutköy Bilim Merkezi",
+    "title2": "Ahmet Haşim BALTACI",
+    "title3": "•Planetaryum
+•Fuaye ve Sergi Alanları
+•Çok Amaçlı Salon
+•Dene-Yap Atölyeleri
+•Şehir Kütüphanesi
+•Çocuk Kütüphanesi
+•Bilim Laboratuvarları
+•Teknoloji Eğitim Merkezi
+•Kafe-Restoranlar
+Toplam Alan: 12.000 m2",
     "title4": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/eeeee.png"
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/arnavutkoy-bilim-merkezi_6369.jpeg"
   }
 ]
